@@ -5,18 +5,21 @@
 #include <vector>
 using namespace std;
 
-int swap(int *a, int *b) {
-  static int count = 0;
+void swap(int* a, int* b) {
   int temp = *a;
   *a = *b;
   *b = temp;
-  count++;
-  std::cout << count;
-  return count;
+}
+
+void printOutput(std::vector<int> v, int count) {
+	std::cout << "Array is sorted in " << count << " swaps." << std::endl;
+	std::cout << "First Element: " << v[0] << std::endl;
+	std::cout << "Last Element: " << v[v.size() - 1] << std::endl;
 }
 
 int main() {
   int n = 0;
+  int count = 0;
   std::cin >> n;
   std::vector<int> arrayOfNum(n);
 
@@ -25,14 +28,16 @@ int main() {
   }
 
   for (int j = 0; j < n - 1; ++j) {
-    for (int i = 0; i < n - j; ++i) {
+    for (int i = 0; i < n - j - 1; ++i) {
 
       if (arrayOfNum[i] > arrayOfNum[i + 1]) {
         swap(arrayOfNum[i], arrayOfNum[i + 1]);
-
+        count++;
       }
     }
   }
+
+  printOutput(arrayOfNum, count);
 
   return 0;
 }
