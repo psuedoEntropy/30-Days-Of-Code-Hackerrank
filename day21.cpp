@@ -4,13 +4,13 @@
 
 using namespace std;
 
-/**
-*    Name: printArray
-*    Print each element of the generic vector on a new line. Do not return anything.
-*    @param A generic vector
-**/
+template <typename T>
+void printArray(std::vector<T> v) {
+	for (int i = 0; i < v.size(); ++i) {
+		std::cout << v[i] << std::endl;
+	}
 
-// Write your code here
+}
 
 int main() {
 	int n;

@@ -33,7 +33,7 @@ int main() {
 	    	toPrint = prime? "Prime": "Not prime";
 	    }
 	    else {
-	    	toPrint = "Not Prime";
+	    	toPrint = "Not prime";
 	    }
 
 	    std::cout << toPrint << std::endl;
