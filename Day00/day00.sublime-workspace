@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad",
+				"andOfTwoInts"
+			],
+			[
+				"an",
+				"andOfTwoInts"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fi",
+				"filteredVector"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"righ",
+				"rightSubTreeTraversal"
+			],
+			[
+				"left",
+				"leftSubTreeTraversal"
+			],
+			[
+				"eda",
+				"edate"
+			],
+			[
+				"right",
+				"rightHeight"
+			],
+			[
+				"pr",
+				"printArray"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"prin",
+				"printOutput"
+			],
+			[
+				"sqr",
+				"sqrtOfN"
+			],
+			[
+				"qu",
+				"queueChar"
+			],
+			[
+				"pop",
+				"pop_back"
+			],
+			[
+				"sta",
+				"stag"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"deq",
+				"dequeueCharacter"
+			],
+			[
+				"en",
+				"enqueueCharacter"
+			],
+			[
+				"pus",
+				"pushCharacter"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"c",
+				"cummaltive"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sanyam/Documents/Test/day28.cpp",
+		"/home/sanyam/Documents/Test/day27.cpp",
+		"/home/sanyam/Documents/Test/day23.cpp",
+		"/home/sanyam/Documents/Test/day24.cpp",
+		"/home/sanyam/Documents/Test/day22.cpp",
+		"/home/sanyam/Documents/Test/day29.cpp",
+		"/home/sanyam/Documents/Test/day25.cpp",
+		"/home/sanyam/Documents/Test/day26.cpp",
+		"/home/sanyam/Documents/Test/day18.cpp",
+		"/home/sanyam/Documents/Test/day19.cpp",
+		"/home/sanyam/Documents/Test/day20.cpp",
+		"/home/sanyam/Documents/Test/day21.cpp",
+		"/home/sanyam/Documents/Test/day17.cpp",
+		"/home/sanyam/Documents/Test/day1.cpp",
+		"/home/sanyam/Documents/Test/day16.cpp",
+		"/home/sanyam/Documents/Test/day13.cpp",
+		"/home/sanyam/Documents/Test/day14.cpp",
+		"/home/sanyam/Documents/Test/day15.cpp",
+		"/home/sanyam/Documents/Test/day12.cpp",
+		"/home/sanyam/Documents/Test/day11.cpp",
+		"/home/sanyam/Documents/Test/day10.cpp",
+		"/home/sanyam/Documents/Test/day9.cpp",
+		"/home/sanyam/Documents/Test/day8.cpp",
+		"/home/sanyam/.config/sublime-text-3/Packages/User/C++.sublime-build",
+		"/home/sanyam/Documents/Test/day0.cpp",
+		"/home/sanyam/Documents/Test/day2.cpp",
+		"/home/sanyam/Documents/Test/day3.cpp",
+		"/home/sanyam/Documents/Test/day4.cpp",
+		"/home/sanyam/Documents/Test/day5.cpp",
+		"/home/sanyam/Documents/Test/day6.cpp",
+		"/home/sanyam/Documents/Test/day7.cpp",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/s3.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-placement-groups.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/cloudformation.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/databases-aurora.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/business-benefits.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-autoscalling.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-ebs-volumes.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-efs.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-elb.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ecs.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/general-notes.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/route53.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/aws-trusted-advisor.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/beanstalk.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/security-token-service.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/snowball.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/storage-gateway.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/tests-and-their-relevant-aws-categories.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/5 rds.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/5 databases-redshift.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/ec2-ami.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/7 vpc-nat-gateways.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/5 databases-dynamo-db.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/5 databases-rds-backup-multiAZ-readreplicas.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/2 identify-access-management.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/1.aws services.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/2 iam-roles.txt",
+		"/home/sanyam/Downloads/SSH/MyEC2KeyPair.pem",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/sqs.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/load balancer.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/swf.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/vpc.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/vpc-nat-gateways.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/vpc-nat-and-bastions.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/vpc-flow-logs.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/vpc-acl.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/0.basics.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/databases-dynamo-db.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/databases-rds-backup-multiAZ-readreplicas.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/9 api-gateway.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/api-gateway.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/lambda.txt",
+		"/home/sanyam/Downloads/index.html",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/9 kinesis.txt",
+		"/opt/sublime_text/sublime_text",
+		"/home/sanyam/Desktop/Consildated Billing",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/iam-roles.txt",
+		"/home/sanyam/Desktop/AWS/aws-solutions-architect-associate-notes/identify-access-management.txt",
+		"/home/sanyam/Desktop/SWF Actors",
+		"/home/sanyam/Desktop/Elastic Transcode",
+		"/home/sanyam/Desktop/OpsWork",
+		"/home/sanyam/Desktop/EBS vs Instance Store.txt",
+		"/home/sanyam/Desktop/healthcheck.html",
+		"/home/sanyam/Desktop/PlacementGroups-Notes",
+		"/home/sanyam/Desktop/AutoScaling-Notes",
+		"/home/sanyam/VPC - Notes",
+		"/home/sanyam/Desktop/EFS - Notes",
+		"/home/sanyam/Desktop/Notes-14_March",
+		"/home/sanyam/Desktop/index.html",
+		"/home/sanyam/Downloads/rdsbash.sh",
+		"/media/sanyam/Grad/sop-dry13.txt",
+		"/media/sanyam/Grad/sop-dry.txt",
+		"/media/sanyam/Grad/uni_deadlines",
+		"/media/sanyam/Computer/WebD/bootstrap.html",
+		"/home/sanyam/hello.cpp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eday",
+			"rday",
+			"year",
+			"SG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"emonth",
+			"rmonth"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++.sublime-build",
+	"project": "day00.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
